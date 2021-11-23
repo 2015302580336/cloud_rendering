@@ -1,6 +1,6 @@
-<mxfile modified="2021-11-23T04:07:26.218Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="WdYbdxcrdv56Y4JYhD0B" version="15.8.2" type="github">
+<mxfile modified="2021-11-23T13:57:02.960Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="DxJmU-ME_GTwa0M_iEh4" version="15.8.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="925" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,7 +158,7 @@
             <mxPoint x="645.35" y="527.096" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WoO2-zIwluf7Z4JxM-RB-51" value="建连成功后回调ServerSession" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WoO2-zIwluf7Z4JxM-RB-50">
+        <mxCell id="WoO2-zIwluf7Z4JxM-RB-51" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;成功回调中伴随ServerSession&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WoO2-zIwluf7Z4JxM-RB-50">
           <mxGeometry x="0.1875" y="-2" relative="1" as="geometry">
             <mxPoint x="20" y="1" as="offset" />
           </mxGeometry>
@@ -192,6 +192,17 @@
         <mxCell id="WoO2-zIwluf7Z4JxM-RB-57" value="4、调用start函数启动云游戏" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WoO2-zIwluf7Z4JxM-RB-56">
           <mxGeometry x="0.1875" y="-2" relative="1" as="geometry">
             <mxPoint x="19" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WoO2-zIwluf7Z4JxM-RB-58" value="" style="endArrow=blockThin;html=1;rounded=0;strokeWidth=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endFill=1;exitX=1.239;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WoO2-zIwluf7Z4JxM-RB-23" target="WoO2-zIwluf7Z4JxM-RB-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="280" as="sourcePoint" />
+            <mxPoint x="255" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WoO2-zIwluf7Z4JxM-RB-59" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;透传ClientSession&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WoO2-zIwluf7Z4JxM-RB-58">
+          <mxGeometry x="0.1875" y="-2" relative="1" as="geometry">
+            <mxPoint x="-23" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
