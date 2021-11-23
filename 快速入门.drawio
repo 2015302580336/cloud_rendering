@@ -1,80 +1,47 @@
-<mxfile modified="2021-11-22T14:10:45.852Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="gu4wK9ons4GSipeqwjFK" version="15.8.2" type="github">
+<mxfile modified="2021-11-23T03:29:31.299Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="N3Sj4DTJAoWpZn19JsHT" version="15.8.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="780" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="180" y="141" width="240" height="279" as="geometry" />
+        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-14" value="&lt;font color=&quot;#ffffff&quot;&gt;云游戏接入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#B3B3B3;strokeColor=none;fillColor=#007FFF;" parent="1" vertex="1">
+          <mxGeometry x="170" y="30" width="590" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-4" value="客户端（H5、Android、iOS）" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="141" width="180" height="20" as="geometry" />
+        <mxCell id="WoO2-zIwluf7Z4JxM-RB-1" value="" style="group;imageAlign=center;imageVerticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="170" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-14" value="&lt;font color=&quot;#ffffff&quot;&gt;云游戏接入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#B3B3B3;strokeColor=none;fillColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="180" y="100" width="590" height="20" as="geometry" />
+        <mxCell id="WoO2-zIwluf7Z4JxM-RB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#B3B3B3;strokeColor=#E6E6E6;" vertex="1" parent="WoO2-zIwluf7Z4JxM-RB-1">
+          <mxGeometry width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="530" y="181" width="240" height="199" as="geometry" />
+        <mxCell id="WoO2-zIwluf7Z4JxM-RB-3" value="&lt;font color=&quot;#000000&quot;&gt;腾讯云云游戏SDK&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#B3B3B3;labelBackgroundColor=none;" vertex="1" parent="WoO2-zIwluf7Z4JxM-RB-1">
+          <mxGeometry x="10.003333333333337" y="9.997333333333335" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-35" value="业务Server" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="181" width="70" height="20" as="geometry" />
+        <mxCell id="WoO2-zIwluf7Z4JxM-RB-6" value="" style="group;imageAlign=center;imageVerticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="340" y="170" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-42" value="" style="group;imageAlign=center;imageVerticalAlign=middle;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="270" width="200" height="50" as="geometry" />
+        <mxCell id="WoO2-zIwluf7Z4JxM-RB-7" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#B3B3B3;strokeColor=#E6E6E6;" vertex="1" parent="WoO2-zIwluf7Z4JxM-RB-6">
+          <mxGeometry width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-43" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#B3B3B3;strokeColor=#E6E6E6;" vertex="1" parent="6FNGuCrmEd_Gx9L0aRJh-42">
-          <mxGeometry width="200" height="50" as="geometry" />
+        <mxCell id="WoO2-zIwluf7Z4JxM-RB-8" value="&lt;font color=&quot;#000000&quot;&gt;业务客户端&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#B3B3B3;labelBackgroundColor=none;" vertex="1" parent="WoO2-zIwluf7Z4JxM-RB-6">
+          <mxGeometry x="25.003333333333337" y="9.997333333333335" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-44" value="&lt;font color=&quot;#000000&quot;&gt;步骤三：获取ClientSession&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#B3B3B3;labelBackgroundColor=none;" vertex="1" parent="6FNGuCrmEd_Gx9L0aRJh-42">
-          <mxGeometry x="20" y="14.996666666666668" width="160" height="20" as="geometry" />
+        <mxCell id="WoO2-zIwluf7Z4JxM-RB-9" value="" style="group;imageAlign=center;imageVerticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="170" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-45" value="" style="group;imageAlign=center;imageVerticalAlign=middle;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="190" width="200" height="50" as="geometry" />
+        <mxCell id="WoO2-zIwluf7Z4JxM-RB-10" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#B3B3B3;strokeColor=#E6E6E6;" vertex="1" parent="WoO2-zIwluf7Z4JxM-RB-9">
+          <mxGeometry width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-46" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#B3B3B3;strokeColor=#E6E6E6;" vertex="1" parent="6FNGuCrmEd_Gx9L0aRJh-45">
-          <mxGeometry width="200" height="50" as="geometry" />
+        <mxCell id="WoO2-zIwluf7Z4JxM-RB-11" value="&lt;font color=&quot;#000000&quot;&gt;业务后台&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#B3B3B3;labelBackgroundColor=none;" vertex="1" parent="WoO2-zIwluf7Z4JxM-RB-9">
+          <mxGeometry x="35.00333333333334" y="9.997333333333335" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-47" value="&lt;font color=&quot;#000000&quot;&gt;步骤一：集成云游戏SDK&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#B3B3B3;labelBackgroundColor=none;" vertex="1" parent="6FNGuCrmEd_Gx9L0aRJh-45">
-          <mxGeometry x="25" y="14.996666666666668" width="150" height="20" as="geometry" />
+        <mxCell id="WoO2-zIwluf7Z4JxM-RB-12" value="" style="group;imageAlign=center;imageVerticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="700" y="170" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-48" value="" style="group;imageAlign=center;imageVerticalAlign=middle;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="550" y="230" width="200" height="50" as="geometry" />
+        <mxCell id="WoO2-zIwluf7Z4JxM-RB-13" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#B3B3B3;strokeColor=#E6E6E6;" vertex="1" parent="WoO2-zIwluf7Z4JxM-RB-12">
+          <mxGeometry width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-49" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#B3B3B3;strokeColor=#E6E6E6;" vertex="1" parent="6FNGuCrmEd_Gx9L0aRJh-48">
-          <mxGeometry width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-50" value="&lt;font color=&quot;#000000&quot;&gt;步骤二：支持调用云游戏API&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#B3B3B3;labelBackgroundColor=none;" vertex="1" parent="6FNGuCrmEd_Gx9L0aRJh-48">
-          <mxGeometry x="15" y="14.996666666666668" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-51" value="" style="group;imageAlign=center;imageVerticalAlign=middle;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="550" y="310" width="210" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-52" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#B3B3B3;strokeColor=#E6E6E6;" vertex="1" parent="6FNGuCrmEd_Gx9L0aRJh-51">
-          <mxGeometry width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-53" value="&lt;font color=&quot;#000000&quot;&gt;步骤四：获取ServerSession&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#B3B3B3;labelBackgroundColor=none;" vertex="1" parent="6FNGuCrmEd_Gx9L0aRJh-51">
-          <mxGeometry x="15" y="14.996666666666668" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-54" value="" style="group;imageAlign=center;imageVerticalAlign=middle;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="350" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-55" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#B3B3B3;strokeColor=#E6E6E6;" vertex="1" parent="6FNGuCrmEd_Gx9L0aRJh-54">
-          <mxGeometry width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-56" value="&lt;font color=&quot;#000000&quot;&gt;步骤五：启动云游戏&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#B3B3B3;labelBackgroundColor=none;" vertex="1" parent="6FNGuCrmEd_Gx9L0aRJh-54">
-          <mxGeometry x="40" y="14.996666666666668" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FNGuCrmEd_Gx9L0aRJh-46" target="6FNGuCrmEd_Gx9L0aRJh-49">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FNGuCrmEd_Gx9L0aRJh-49" target="6FNGuCrmEd_Gx9L0aRJh-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FNGuCrmEd_Gx9L0aRJh-43" target="6FNGuCrmEd_Gx9L0aRJh-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6FNGuCrmEd_Gx9L0aRJh-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FNGuCrmEd_Gx9L0aRJh-52" target="6FNGuCrmEd_Gx9L0aRJh-55">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WoO2-zIwluf7Z4JxM-RB-14" value="&lt;font color=&quot;#000000&quot;&gt;腾讯云云游戏后台&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#B3B3B3;labelBackgroundColor=none;" vertex="1" parent="WoO2-zIwluf7Z4JxM-RB-12">
+          <mxGeometry x="10.003333333333337" y="9.997333333333335" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
